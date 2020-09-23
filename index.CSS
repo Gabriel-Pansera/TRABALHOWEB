@@ -1,0 +1,45 @@
+body {
+    font-family: tahoma;
+    background-color: rgb(226, 33, 226);
+}
+
+h2 {
+    color:rgb(255, 187, 0);
+    font-size: 20pt
+}
+h3 {
+    color: rgb(255, 187, 0);
+}
+h4 {
+    color: white;
+    font-size: 12pt;
+}
+
+p {
+    font-size: 12pt;
+    text-align:justify ;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(226, 33, 226);
+    background-color:rgb(255, 187, 0);
+    padding: 15px;
+    font-size: 15pt;
+    border-radius: 0.4rem;
+}
+a:hover {
+    color:rgb(39, 152, 228);
+    background-color: white;
+}
+.ancora {
+    background-color: white;
+    opacity: 0.0;
+}
+
+.mylink{
+    background-color: rgb(226, 33, 226);
+    color: white;
+    font-size: 12pt;
+
+}
